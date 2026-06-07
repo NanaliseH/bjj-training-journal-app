@@ -1,12 +1,12 @@
 # BJJ Training Journal
 
-A SwiftUI iOS application designed for Brazilian Jiu-Jitsu practitioners to track training sessions, mat attendance, position confidence, and personal progress over time.
+A SwiftUI iOS application designed for Brazilian Jiu-Jitsu practitioners to track training sessions, attendance, position confidence, and personal progress over time.
 
 ## Project Background
 
 This project began as a personal side project and birthday gift idea for a Brazilian Jiu-Jitsu enthusiast. The goal was to create a training companion that combines journaling, attendance tracking, performance reflection, and lighthearted analytics into a single mobile application.
 
-While initially built as a fun gift, the project provided hands-on experience in SwiftUI development, speech-to-text integration, user interface design, and building a complete end-to-end mobile application.
+While originally built for fun, the project provided valuable hands-on experience with SwiftUI development, speech-to-text integration, state management, user interface design, and mobile application architecture.
 
 ## Features
 
@@ -14,70 +14,73 @@ While initially built as a fun gift, the project provided hands-on experience in
 * Speech-to-text training notes
 * Mat attendance tracking
 * Position confidence tracking
-* Training history and progress review
-* Performance reflection and analytics
-* Humorous "Ego Check" system for self-assessment
-* Dark-mode optimized interface
+* Training history review
+* Performance reflection tools
+* Humorous "Ego Check" analysis
+* Dark mode user interface
 
 ## Screenshots
 
 ### Main Training Log
 
-![main-screencreen](screenshots/Main%20screen.PNG)
+![Main Screen](screenshots/main-screen.PNG)
 
-Users can record training sessions, voice notes, positions practiced, and daily reflections.
+Record training sessions, voice notes, positions practiced, and post-training reflections.
 
 ### Mat Tracker
 
-![mat-tracker](screenshots/Mat%20tracker.PNG)
+![Mat Tracker](screenshots/mat-tracker.PNG)
 
-Tracks attendance frequency and visualizes training consistency over time.
+Track attendance patterns and monitor training consistency over time.
 
 ### Ego Matrix
 
-![ego-matrix](screenshots/Ego%20Matrix.PNG)
+![Ego Matrix](screenshots/ego-matrix.PNG)
 
-Provides a lighthearted evaluation of confidence levels across various BJJ positions.
+Evaluate confidence levels across different Brazilian Jiu-Jitsu positions using a lighthearted scoring system.
 
 ### Training History
 
-![history](screenshots/History.PNG)
+![History](screenshots/history.PNG)
 
-Stores previous training entries and allows users to review past sessions and progress.
+Review previous entries, training notes, and long-term progress.
 
 ## Technologies Used
 
 * Swift
 * SwiftUI
 * Speech Recognition Framework
-* OpenAI API Integration
+* OpenAI API
 * Xcode
 
 ## Skills Demonstrated
 
-* Mobile Application Development
-* SwiftUI User Interface Design
+* iOS Application Development
+* SwiftUI Interface Design
 * State Management
 * API Integration
 * Speech-to-Text Processing
 * User Experience (UX) Design
-* Data Organization and Tracking
+* Mobile App Architecture
+* Data Tracking and Visualization
 
 ## Future Improvements
 
-* Cloud synchronization
 * Apple Watch integration
-* Training statistics dashboard
+* Cloud synchronization
 * Belt progression tracking
+* Advanced analytics dashboard
 * Exportable training reports
-* Multi-user support
+* Multi-device support
 
 ## Author
 
 **Nanalise Howe**
 
-Mathematics (Data Science) Student at Austin Peay State University
-Current GPA: 3.9
-Expected Graduation: Fall 2026
+Mathematics (Data Science) Student
+Austin Peay State University
+
+* Current GPA: 3.9
+* Expected Graduation: Fall 2026
 
 Interested in Data Science, Machine Learning, Mobile Application Development, and AI-powered applications.
