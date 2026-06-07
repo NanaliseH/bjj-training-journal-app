@@ -1,35 +1,39 @@
 # BJJ Training Journal
 
-A SwiftUI iOS application designed for Brazilian Jiu-Jitsu practitioners to track training sessions, mat attendance, position confidence, and personal progress over time.
+Short project description
 
 ## Project Background
 
-This project began as a personal side project and birthday gift idea for a Brazilian Jiu-Jitsu enthusiast. The goal was to create a training companion that combines journaling, attendance tracking, performance reflection, and lighthearted analytics into a single mobile application.
-
-While initially built for fun, the project provided hands-on experience in SwiftUI development, API integration, user interface design, and building a complete end-to-end mobile application.
+(Your birthday gift story)
 
 ## Features
 
-* Voice-based training journal
-* Training attendance tracker
-* Position confidence assessment ("Ego Matrix")
-* Training history and reflection logs
-* Calendar-based activity visualization
-* Clean SwiftUI interface
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Technologies Used
 
-* Swift
-* SwiftUI
-* OpenAI API
-* Speech Recognition
-* iOS Development
+- SwiftUI
+- Speech Recognition
+- OpenAI API
 
-## Skills Demonstrated
+## Screenshots
 
-* Mobile App Development
-* Swift Programming
-* API Integration
-* User Interface Design
-* State Management
-* Product Development
+### Main Screen
+![Main Screen](screenshots/Main%20screen.PNG)
+
+### Mat Tracker
+![Mat Tracker](screenshots/Mat%20tracker.PNG)
+
+### Ego Matrix
+![Ego Matrix](screenshots/Ego%20Matrix.PNG)
+
+### History
+![History](screenshots/History.PNG)
+
+## Future Improvements
+
+- Export training logs
+- Cloud synchronization
+- Advanced performance analytics
