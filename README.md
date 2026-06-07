@@ -23,25 +23,25 @@ While initially built as a fun gift, the project provided hands-on experience in
 
 ### Main Training Log
 
-![Main-Screen](screenshots/Main%20screen.PNG)
+![main-screencreen](screenshots/Main%20screen.PNG)
 
 Users can record training sessions, voice notes, positions practiced, and daily reflections.
 
 ### Mat Tracker
 
-![Mat-Tracker](screenshots/Mat%20tracker.PNG)
+![mat-tracker](screenshots/Mat%20tracker.PNG)
 
 Tracks attendance frequency and visualizes training consistency over time.
 
 ### Ego Matrix
 
-![Ego-Matrix](screenshots/Ego%20Matrix.PNG)
+![ego-matrix](screenshots/Ego%20Matrix.PNG)
 
 Provides a lighthearted evaluation of confidence levels across various BJJ positions.
 
 ### Training History
 
-![History](screenshots/History.PNG)
+![history](screenshots/History.PNG)
 
 Stores previous training entries and allows users to review past sessions and progress.
 
